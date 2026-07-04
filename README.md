@@ -1,6 +1,6 @@
-<!--- 
+<!-- 
 ✨ Aaravdevelops' GitHub Profile ✨
---->
+-->
 
 <!-- Typing SVG Animation -->
 <p align="center">
@@ -17,6 +17,9 @@
   <a href="https://github.com/Aaravdevelops">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Follow" />
   </a>
+  <a href="https://www.linkedin.com/in/aarav-develops" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 <br/>
@@ -31,15 +34,19 @@ class Aarav:
         self.name = "Aarav"
         self.pronouns = "He/Him"
         self.location = "Earth 🌍"
+        self.bio = "Passionate developer exploring the world of code"
         
     def interests(self):
-        return ["Game Development", "Python", "Web Development", "Open Source"]
+        return ["Game Development", "Python", "Web Development", "Open Source", "Automation"]
         
     def currently_learning(self):
-        return ["Python", "HTML", "CSS", "JavaScript"]
+        return ["Advanced Python", "HTML/CSS", "JavaScript", "GitHub Actions"]
         
     def contact(self):
         return "Contactaaravat@fearlessmails.com"
+        
+    def fun_fact(self):
+        return "I love creating Python scripts and building small games!"
 ```
 
 <p align="center">
@@ -75,15 +82,17 @@ class Aarav:
 <!-- Projects Section -->
 ## 🚀 My Projects
 
-### 📚 Featured Repositories
+### 📁 Featured Repositories
 
 <div align="center">
 
-| Repository | Description | Stars | Forks |
-|------------|-------------|-------|-------|
-| [ebookjunction](https://github.com/Aaravdevelops/ebookjunction) | Ebook management platform | <img src="https://img.shields.io/github/stars/Aaravdevelops/ebookjunction?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/ebookjunction?style=flat" alt="Forks" /> |
-| [py_progs](https://github.com/Aaravdevelops/py_progs) | Python programs collection | <img src="https://img.shields.io/github/stars/Aaravdevelops/py_progs?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/py_progs?style=flat" alt="Forks" /> |
-| [JS](https://github.com/Aaravdevelops/JS) | JavaScript projects | <img src="https://img.shields.io/github/stars/Aaravdevelops/JS?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/JS?style=flat" alt="Forks" /> |
+| Repository | Description | Language | Stars | Forks |
+|------------|-------------|----------|-------|-------|
+| [ebookjunction](https://github.com/Aaravdevelops/ebookjunction) | Ebook management platform for organizing and accessing digital books | HTML | <img src="https://img.shields.io/github/stars/Aaravdevelops/ebookjunction?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/ebookjunction?style=flat" alt="Forks" /> |
+| [py_progs](https://github.com/Aaravdevelops/py_progs) | Collection of Python programs and scripts for various purposes | Python | <img src="https://img.shields.io/github/stars/Aaravdevelops/py_progs?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/py_progs?style=flat" alt="Forks" /> |
+| [JS](https://github.com/Aaravdevelops/JS) | JavaScript projects and experiments | JavaScript | <img src="https://img.shields.io/github/stars/Aaravdevelops/JS?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/JS?style=flat" alt="Forks" /> |
+| [VIRUS](https://github.com/Aaravdevelops/VIRUS) | Batch file experiments and scripts | Batch | <img src="https://img.shields.io/github/stars/Aaravdevelops/VIRUS?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/VIRUS?style=flat" alt="Forks" /> |
+| [all-bout-me](https://github.com/Aaravdevelops/all-bout-me) | Personal portfolio and about me page | HTML | <img src="https://img.shields.io/github/stars/Aaravdevelops/all-bout-me?style=flat" alt="Stars" /> | <img src="https://img.shields.io/github/forks/Aaravdevelops/all-bout-me?style=flat" alt="Forks" /> |
 
 </div>
 
@@ -107,6 +116,9 @@ class Aarav:
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
   </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50" />
+  </a>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -121,6 +133,16 @@ class Aarav:
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50" />
   </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" />
+  </a>
+</p>
+
+<br/>
+
+<!-- GitHub Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aaravdevelops/Aaravdevelops/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 <br/>
@@ -134,6 +156,12 @@ class Aarav:
   </a>
   <a href="https://github.com/Aaravdevelops">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/aarav-develops" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/AaravDevelops" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter" width="40" height="40"/>
   </a>
 </p>
 
