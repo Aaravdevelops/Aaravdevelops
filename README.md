@@ -11,7 +11,7 @@
 
 <!-- Social Badges -->
 <p align="center">
-  <a href="mailto:Contactaaravat@fearlessmails.com">
+  <a href="mailto:aaravdevelops@therategmail.com">
     <img src="https://img.shields.io/badge/Email-Me-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/Aaravdevelops">
@@ -43,7 +43,7 @@ class Aarav:
         return ["Advanced Python", "HTML/CSS", "JavaScript", "GitHub Actions"]
         
     def contact(self):
-        return "Contactaaravat@fearlessmails.com"
+        return "aaravdevelops@therategmail.com"
         
     def fun_fact(self):
         return "I love creating Python scripts and building small games!"
@@ -151,7 +151,7 @@ class Aarav:
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:Contactaaravat@fearlessmails.com">
+  <a href="mailto:aaravdevelops@therategmail.com">
     <img src="https://img.icons8.com/fluency/48/000000/mail.png" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://github.com/Aaravdevelops">
